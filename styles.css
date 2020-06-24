@@ -1,0 +1,51 @@
+    
+    body, input, button{
+        font-family: 'Courgette', cursive;
+    }
+    
+    .contenedor{
+        width: 700px;
+    }
+    
+    .header{
+        width: 100%;
+    }
+    .titulo{
+        width: 68%;
+        margin-left:2%;
+        float: left;
+    }
+    .logo{
+        width: 30%;
+        float: left;
+    }
+    
+    .logo img{
+        max-width: 70px;
+    }
+    .cuerpo{
+        width: 100%;
+        float: left;
+    }
+    .texto{
+        width: 46%;
+        margin: 2%;
+        float: left;
+
+    }
+    .form{
+         width: 46%;
+         margin: 2%;
+         float: left;
+
+    }
+    input{
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid grey; 
+        margin: 1% 0px;
+    }
+    .footer{
+        text-align: center;
+    }
+    button
